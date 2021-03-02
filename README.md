@@ -1,1 +1,1 @@
-# C-C Projeto covid-19
+#  Primeiros projetos inscritos em C
