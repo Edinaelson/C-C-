@@ -1,1 +1,1 @@
-#  Primeiros projetos inscritos em C
+#  Primeiros projetos feitos em C
